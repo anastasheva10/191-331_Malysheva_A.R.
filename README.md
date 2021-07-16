@@ -1,5 +1,6 @@
 # 191-331_Malysheva_A.R.
 Приложегние "Мобильный блог" содержит 3 страницы: 
+
 ●страницу “Публикации” 
 
 ![image](https://user-images.githubusercontent.com/54934689/125967458-2f02a833-ed51-49af-9dd5-4703bdbca288.png)
