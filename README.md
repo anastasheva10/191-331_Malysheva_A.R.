@@ -9,9 +9,12 @@
 Email автора: anastasheva10@yandex.ru
 Ссылка на сайт: https://mospolytech.ru/
 
-
-
 Содержание всех страниц
 ![image](https://user-images.githubusercontent.com/54934689/125967458-2f02a833-ed51-49af-9dd5-4703bdbca288.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/54934689/125967504-623fb2ea-0dce-4629-bd3f-7445a45df87e.png)
+
+
 ![image](https://user-images.githubusercontent.com/54934689/125967524-5819be8a-a86e-4d1c-8c87-7f8cc2605e01.png)
