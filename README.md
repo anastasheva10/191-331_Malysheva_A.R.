@@ -2,6 +2,8 @@
 Приложегние "Мобильный блог" содержит 3 страницы: 
 ●страницу “Публикации”,
 ![image](https://user-images.githubusercontent.com/54934689/125967458-2f02a833-ed51-49af-9dd5-4703bdbca288.png)
+
+
 ● страницу “Профиль”,
 ![image](https://user-images.githubusercontent.com/54934689/125967504-623fb2ea-0dce-4629-bd3f-7445a45df87e.png)
 
